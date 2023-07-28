@@ -1,0 +1,8 @@
+.a{
+    width: 700px;
+    height: 150px;
+    text-align: center;
+    padding-top: 30px;
+    background-color: black;
+    background: linear-gradient(90deg,blue,green,yellow,orange,red);
+}

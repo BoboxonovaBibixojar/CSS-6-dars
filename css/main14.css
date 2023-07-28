@@ -1,0 +1,41 @@
+.wrap{
+    width: 2000px;
+    height: 2000px;
+    background-color: darkblue;
+    padding-top: 500px;
+}
+.bir{
+    margin-left: 100px;
+    width: 200px;
+    height: 200px;
+    background-color: #7de29e;
+    border-radius: 20px;
+    top: 42%;
+    left: 10%;
+    animation-name: wrap;
+    animation-duration: 7s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+@keyframes wrap {
+    0%{
+        transform:translate(0,200px)rotate(0);
+        background-color: #7de29e;
+    }
+    25%{
+        transform:translate(0,-75px)rotate(-360deg) ;
+        background-color: #7de29e;
+    }
+    50%{
+        transform: translate(400px)rotate(360deg);
+        background-color: #ff85a2;
+    }
+    75%{
+        transform: translate(1200px,-100px) ;
+        background-color: #ff85a2;
+    }
+    100%{
+        transform: translate(1200px,90px);
+        background-color: aqua;
+    }
+}

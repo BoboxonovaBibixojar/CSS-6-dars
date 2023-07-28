@@ -1,0 +1,47 @@
+.wrap{
+    width: 2000px;
+    height: 2000px;
+    background-color: black;
+    padding-top: 500px;
+    padding-left: 400px;
+}
+.bir{
+    width: 100px;
+    height: 250px;
+    top: 15%;
+    background-color: white;
+    border-radius: 30px;
+    display: inline-block;
+}
+.ikki{
+    margin-top: 200px;
+    width: 100px;
+    top: 20%;
+    height: 350px;
+    background-color: white;
+    border-radius: 30px;
+    display: inline-block;
+}
+.uch{
+
+    width: 100px;
+    height: 400px;
+    background-color: white;
+    border-radius: 30px;
+    display: inline-block;
+    animation-delay: 3s;
+}
+.tort{
+    width: 100px;
+    height: 300px;
+    background-color: white;
+    border-radius: 30px;
+    display: inline-block;
+}
+.besh{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 30px;
+    display: inline-block;
+}

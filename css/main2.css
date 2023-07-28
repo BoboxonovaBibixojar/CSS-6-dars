@@ -1,0 +1,591 @@
+.wrap{
+    width: 1200px;
+    margin: 20px auto;
+}
+/*h1{
+    text-shadow: -2px -10px 0 red, 2px 10px 10px blue;
+}*/
+.row{
+    width: 100%;
+    display: block;
+}
+.col{
+    width: 30%;
+    display: block;
+    float:  left;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(80, 80, 80, 0.5);
+    margin: 20px;
+}
+
+.row .col:first-child .sana{
+    background-color: indianred;
+}
+.row .col:nth-child(14) .sana{
+    background-color: indianred;
+}
+.sana1{
+    padding: 5rem 0;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: #7de29e;
+    color: white;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+.text-sana1{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col1:hover{
+    transform: translate(50px) rotateX(45deg);
+    transition:2s;
+}
+.sana2{
+    padding: 5rem 0;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: #7de29e;
+    color: white;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+.text-sana2{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col2:hover{
+
+}
+.sana3{
+    padding: 5rem 0;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: #7de29e;
+    color: white;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+.text-sana3{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col3:hover{
+
+}
+.sana4{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana4{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col4:hover{
+
+}
+.sana5{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana5{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col5:hover{
+
+
+}
+.sana6{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana6{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col6:hover{
+
+
+}
+.sana7{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana7{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col7:hover{
+
+
+}
+.sana8{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana8{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col8:hover{
+
+}
+.sana9{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana9{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col9:hover{
+
+}
+.sana10{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana10{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col10:hover{
+
+}
+.sana11{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana11{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col11:hover{
+
+}
+.sana12{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana12{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col12:hover{
+
+}
+.sana13{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana13{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col13:hover{
+   transform: translate(50px) rotateX(45deg);
+    transition:2s;
+}
+.sana14{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana14{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col14:hover{
+
+}
+.sana15{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana15{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col15:hover{
+
+}
+.sana16{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana16{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col16:hover{
+
+}
+.sana17{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana17{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col17:hover{
+
+}
+.sana18{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana18{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col18:hover{
+
+}
+.sana{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col:hover{
+
+}
+.sana{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col:hover{
+
+}
+.sana{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col:hover{
+
+}
+.sana{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col:hover{
+
+}
+.sana{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col:hover{
+
+}
+.sana{
+    padding: 5rem 0;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: #7de29e;
+    color: white;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+.text-sana{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col:hover{
+
+}
+.sana{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col:hover{
+
+}
+.sana{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col:hover{
+
+}
+.sana{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col:hover{
+
+}
+.sana{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col:hover{
+
+}
+.sana{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col:hover{
+
+}
+.sana{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col:hover{
+
+}
+.sana{
+     padding: 5rem 0;
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     background-color: #7de29e;
+     color: white;
+     border-top-right-radius: 8px;
+     border-top-left-radius: 8px;
+ }
+.text-sana{
+    padding: 2rem 0;
+    text-align: center;
+}
+.col:hover{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+.soat{
+    width: 500px;
+    height: 500px;
+}
+.soat1{
+    width: 500px;
+    height: 500px;
+    background: linear-gradient(120deg,blueviolet,dodgerblue);
+}
+.soat2{
+    width: 300px;
+    height: 300px;
+    margin-top: -400px;
+    margin-left: 80px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: white;
+    border: 1px solid blueviolet;
+    box-shadow: 0 0 10px rgba(80, 80, 80, 0.5);
+}
+.v{
+    background: linear-gradient(120deg,yellow,blueviolet);
+    text-align: center;
+    font-size: 100px;
+}

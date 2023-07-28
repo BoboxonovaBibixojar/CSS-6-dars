@@ -1,0 +1,11 @@
+.wrap{
+    text-align: center;
+    width: 1200px;
+    height: 500px;
+    margin: 100px 100px;
+    background-color: white;
+    padding-top: 300px;
+    font-weight: bold;
+    font-size: 30px;
+    background: radial-gradient(green, white, blue);
+}
